@@ -72,6 +72,6 @@ assets {
 
 grails {
     plugins {
-        compile project(':jasper')
+        compile project(':plugin')
     }
 }
